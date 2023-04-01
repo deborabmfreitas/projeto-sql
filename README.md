@@ -1,4 +1,4 @@
-# Análise de dados com python e SQL
+# Análise de dados com Python e SQL
 
 
 ![img](img/olist2.png)
@@ -16,7 +16,7 @@ Os dados foram extraídos do [Kaggle](https://www.kaggle.com/datasets/olistbr/br
 - Criação de um arquivo de banco de dados por meio do sqlite3
 - Transformação  e manipulação de dados (Pandas/SQL)
 - Elaboração de hipóteses/consultas
-- Elaboração de gráficos com o seaborn
+- Elaboração de gráficos com o Seaborn
 
 # Lista de consultas
 
@@ -36,4 +36,4 @@ Os dados foram extraídos do [Kaggle](https://www.kaggle.com/datasets/olistbr/br
 14. Distribuição de reviews dos pedidos
 15. Ano em que mais enviou produtos.
 
-Clique [aqui](https://github.com/deborabmfreitas/projeto-sql) para visualizar mais detalhes do projeto. :)
+Clique [aqui](https://github.com/deborabmfreitas/projeto-sql/blob/main/projeto-sql.ipynb) para visualizar mais detalhes do projeto. :)
