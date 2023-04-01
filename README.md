@@ -5,7 +5,8 @@
 
 O projeto visa explorar dados da Olist, uma plataforma de e-commerce que atua como um facilitador para os vendedores se conectarem a diferentes marketplaces, como Mercado Livre, Submarino, Shoptime, etc. A análise dos dados foi feita por meio de consultas com SQL e Python.
 
-Os dados foram extraídos do [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), transformados e tratados com o pandas, carregados em um arquivo .db em tabelas com o sqlite3, convertidos em dataframe para a manipulação dos dados e, por fim, foram gerados gráficos com Matplotlib e Seaborn.
+Os dados foram extraídos do [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), transformados e tratados com o pandas, carregados em um arquivo de banco de dados SQLite usando a biblioteca sqlite3 do Python e posteriormente foram convertidos em dataframe para a manipulação dos dados. Os gráficos foram gerados com Matplotlib e Seaborn. 
+
 
 # Ferramentas e métodos:
 - Jupyter notebook
