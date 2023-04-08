@@ -21,6 +21,8 @@ Os dados foram extraídos do [Kaggle](https://www.kaggle.com/datasets/olistbr/br
 
 # Lista de consultas
 
+![img](img/queries.jpg)
+
 1. Total de estados registrados
 2. Quantidade de cidades por estado
 3. Total de produtos cadastrados
